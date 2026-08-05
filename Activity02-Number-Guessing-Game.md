@@ -1,7 +1,7 @@
 # Lab: Build a Simple Number Guessing Game Using GitHub Copilot Agent
 
 ## Lab Overview
-
+ 
 In this lab, you will use **GitHub Copilot Agent Mode** to build a simple Number Guessing Game using HTML, CSS, and JavaScript.
 
 The objective is to understand how GitHub Copilot Agent can:
