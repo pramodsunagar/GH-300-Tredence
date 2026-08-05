@@ -1,7 +1,7 @@
 # GitHub Copilot Instructions File – Hands-on Lab
 
 ## Lab Title
-
+ 
 **Creating and Using GitHub Copilot Instructions File (`.github/copilot-instructions.md`)**
 
 ## Target Audience
