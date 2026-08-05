@@ -225,7 +225,7 @@ Build a feature:
 # **Summary**
 
 In this lab, you practiced:
-
+ 
 * **Inline Suggestions** → Faster coding with real-time completions
 * **Copilot Chat** → Ask, explain, and refactor code
 * **Inline Chat** → Context-aware editing
